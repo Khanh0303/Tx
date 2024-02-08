@@ -1,0 +1,10 @@
+localhost:~# git clone https://github.com/khanh0303/pythongame.com
+clone intro'pythongame'...
+remote: enumerating object:157, done.
+remote: conting object: 100% (15/15), done.
+remote: compressing object: 100% (13/13), done.
+remote: total 157 (detal 5), reused 0 (detal 0), pack-reused 142
+receiving object: 100% (157,157), 58,85 kiB | 430.00 kiB/s, done.
+resolving detals: 100% (74,74), done.
+localhost:~# cd pythongame
+localhost:~/pythongame# python3 open.py
